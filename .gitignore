@@ -380,3 +380,4 @@ src/environments/environment.*.ts
 npm-debug.log
 yarn-debug.log
 yarn-error.log
+/EmployeeManagementApi.csproj
